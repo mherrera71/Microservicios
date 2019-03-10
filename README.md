@@ -26,17 +26,20 @@ Aunque no es oblitatorias todas, digamos son las que se conocen hoy y se han uti
   Software Evolutivo
   Base de datos No SQL
   Contenedores
+ 
   
  2.Patrones de Diseño
   CQRS - Command Query Responsibility Segregation https://martinfowler.com/bliki/CQRS.html 
   Event Sourcing
   Colas
-  
+  Gateways
+   
  3.Tecnologías
   Contenedores - Docker
   Orquestador de contenedores Kubernetes
   Colas RabbitMQ, Apache Kafka
   NoSql - Redis, MongoDb, CosmoDb,Cassandra,HyperGraphDb,Jbase
+  Gateways -  Ocelot
   
  4.Herramientas
   Postmant probar los web api
